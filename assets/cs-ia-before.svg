@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2175.06 825.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1f5f9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-4, .cls-8 {
+        stroke: #94a3b8;
+      }
+
+      .cls-2 {
+        fill: #e0f2f1;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #2a9d8f;
+      }
+
+      .cls-10 {
+        font-size: 13px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        isolation: isolate;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-14 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-16 {
+        fill: #1f2a37;
+      }
+
+      .cls-3, .cls-4, .cls-11, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #e3ecf7;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #3b6ea5;
+      }
+
+      .cls-11 {
+        font-size: 15px;
+      }
+
+      .cls-6 {
+        stroke: #1e3a5f;
+      }
+
+      .cls-6, .cls-12 {
+        fill: #1e3a5f;
+      }
+
+      .cls-12 {
+        font-size: 30px;
+      }
+
+      .cls-13 {
+        font-size: 14px;
+      }
+
+      .cls-13, .cls-15 {
+        fill: #475569;
+      }
+
+      .cls-13, .cls-15, .cls-16 {
+        font-family: Inter-Regular, Inter;
+        font-variation-settings: 'wght' 400, 'slnt' 0;
+      }
+
+      .cls-14 {
+        fill: #b45309;
+        font-size: 20px;
+      }
+
+      .cls-15 {
+        font-size: 16px;
+      }
+
+      .cls-16 {
+        font-size: 12px;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-9 {
+        fill: #fdecec;
+        stroke: #d9534f;
+      }
+    </style>
+  </defs>
+  <text class="cls-12" transform="translate(60 70)"><tspan x="0" y="0">CareerStaff Unlimited — Information</tspan><tspan class="cls-19" x="518.39" y="0"> </tspan><tspan x="525.62" y="0">Architecture</tspan></text>
+  <text class="cls-15" transform="translate(60 102)"><tspan x="0" y="0">Before and after the website redesign. Sitemaps recreated from the archived navigation and the live site.</tspan></text>
+  <text class="cls-14" transform="translate(60 160)"><tspan x="0" y="0">BEFORE — Original navigation (archived)</tspan></text>
+  <text class="cls-13" transform="translate(60 186)"><tspan x="0" y="0">10 top-level items mixing audiences, utilities, and temporary content</tspan></text>
+  <rect class="cls-6" x="958" y="210" width="220" height="48" rx="8" ry="8"/>
+  <text class="cls-11" transform="translate(1012.1382 239.2)"><tspan x="0" y="0">careerstaff.com</tspan></text>
+  <line class="cls-8" x1="150" y1="286" x2="1986" y2="286"/>
+  <line class="cls-8" x1="1068" y1="258" x2="1068" y2="286"/>
+  <line class="cls-8" x1="150" y1="286" x2="150" y2="310"/>
+  <rect class="cls-1" x="60" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(131.94 338.6)"><tspan x="0" y="0">Home</tspan></text>
+  <line class="cls-8" x1="354" y1="286" x2="354" y2="310"/>
+  <rect class="cls-1" x="264" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(315.34 338.6)"><tspan x="0" y="0">Search Jobs</tspan></text>
+  <line class="cls-8" x1="558" y1="286" x2="558" y2="310"/>
+  <rect class="cls-1" x="468" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(520.32 338.6)"><tspan x="0" y="0">Quick</tspan><tspan class="cls-19" x="36.12" y="0"> </tspan><tspan x="39.25" y="0">Apply</tspan></text>
+  <line class="cls-8" x1="762" y1="286" x2="762" y2="310"/>
+  <rect class="cls-2" x="672" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(731.3 338.6)"><tspan x="0" y="0">Clinicians</tspan></text>
+  <polyline class="cls-8" points="686 358 686 392 696 392"/>
+  <rect class="cls-3" x="696" y="372" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(734.53 396.2)"><tspan x="0" y="0">Clinician Type</tspan></text>
+  <polyline class="cls-8" points="686 412 686 446 696 446"/>
+  <rect class="cls-3" x="696" y="426" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(752.04 450.2)"><tspan x="0" y="0">Nursing</tspan></text>
+  <polyline class="cls-8" points="686 466 686 500 696 500"/>
+  <rect class="cls-3" x="696" y="480" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(750.61 504.2)"><tspan x="0" y="0">Therapy</tspan></text>
+  <polyline class="cls-8" points="686 520 686 554 696 554"/>
+  <rect class="cls-3" x="696" y="534" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(745.74 558.2)"><tspan x="0" y="0">Pharmacy</tspan></text>
+  <polyline class="cls-8" points="686 574 686 608 696 608"/>
+  <rect class="cls-3" x="696" y="588" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(756.85 612.2)"><tspan x="0" y="0">Travel</tspan></text>
+  <line class="cls-8" x1="966" y1="286" x2="966" y2="310"/>
+  <rect class="cls-5" x="876" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(932.76 338.6)"><tspan x="0" y="0">Employers</tspan></text>
+  <polyline class="cls-8" points="890 358 890 392 900 392"/>
+  <rect class="cls-7" x="900" y="372" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(939.34 396.2)"><tspan x="0" y="0">Request Staff</tspan></text>
+  <polyline class="cls-8" points="890 412 890 454 900 454"/>
+  <rect class="cls-7" x="900" y="426" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(931.1 450.7)"><tspan x="0" y="0">Request Nursing</tspan></text>
+  <text class="cls-16" transform="translate(964.28 465.7)"><tspan x="0" y="0">Staff</tspan></text>
+  <polyline class="cls-8" points="890 482 890 524 900 524"/>
+  <rect class="cls-7" x="900" y="496" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(924.8 520.7)"><tspan x="0" y="0">Request Pharmacy</tspan></text>
+  <text class="cls-16" transform="translate(964.28 535.7)"><tspan x="0" y="0">Staff</tspan></text>
+  <polyline class="cls-8" points="890 552 890 594 900 594"/>
+  <rect class="cls-7" x="900" y="566" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(929.68 590.7)"><tspan x="0" y="0">Request Therapy</tspan></text>
+  <text class="cls-16" transform="translate(964.28 605.7)"><tspan x="0" y="0">Staff</tspan></text>
+  <polyline class="cls-8" points="890 622 890 656 900 656"/>
+  <rect class="cls-7" x="900" y="636" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(951.85 660.2)"><tspan x="0" y="0">Solutions</tspan></text>
+  <polyline class="cls-8" points="890 676 890 718 900 718"/>
+  <rect class="cls-7" x="900" y="690" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(925.42 714.7)"><tspan x="0" y="0">Managed Services</tspan></text>
+  <text class="cls-16" transform="translate(954.38 729.7)"><tspan x="0" y="0">Provider</tspan></text>
+  <line class="cls-8" x1="1170" y1="286" x2="1170" y2="310"/>
+  <rect class="cls-1" x="1080" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(1155.5591 338.6)"><tspan x="0" y="0">Blog</tspan></text>
+  <polyline class="cls-8" points="1094 358 1094 392 1104 392"/>
+  <rect class="cls-4" x="1104" y="372" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1160.0371 396.2)"><tspan x="0" y="0">Nursing</tspan></text>
+  <polyline class="cls-8" points="1094 412 1094 446 1104 446"/>
+  <rect class="cls-4" x="1104" y="426" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1153.739 450.2)"><tspan x="0" y="0">Pharmacy</tspan></text>
+  <polyline class="cls-8" points="1094 466 1094 500 1104 500"/>
+  <rect class="cls-4" x="1104" y="480" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1158.6139 504.2)"><tspan x="0" y="0">Therapy</tspan></text>
+  <polyline class="cls-8" points="1094 520 1094 554 1104 554"/>
+  <rect class="cls-4" x="1104" y="534" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1164.8523 558.2)"><tspan x="0" y="0">Travel</tspan></text>
+  <polyline class="cls-8" points="1094 574 1094 608 1104 608"/>
+  <rect class="cls-4" x="1104" y="588" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1126.5774 612.2)"><tspan x="0" y="0">Healthcare Leaders</tspan></text>
+  <line class="cls-8" x1="1374" y1="286" x2="1374" y2="310"/>
+  <rect class="cls-1" x="1284" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(1355.23 338.6)"><tspan x="0" y="0">About</tspan></text>
+  <line class="cls-8" x1="1578" y1="286" x2="1578" y2="310"/>
+  <rect class="cls-9" x="1488" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(1536.9465 338.6)"><tspan x="0" y="0">RO</tspan><tspan class="cls-17" x="19.5" y="0">P</tspan><tspan x="27.94" y="0"> </tspan><tspan class="cls-18" x="31.55" y="0">T</tspan><tspan x="38.77" y="0">raining</tspan></text>
+  <line class="cls-8" x1="1782" y1="286" x2="1782" y2="310"/>
+  <rect class="cls-9" x="1692" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(1752.02 330.6)"><tspan x="0" y="0">COVID-19</tspan></text>
+  <text class="cls-10" transform="translate(1748.7605 346.6)"><tspan x="0" y="0">Resources</tspan></text>
+  <line class="cls-8" x1="1986" y1="286" x2="1986" y2="310"/>
+  <rect class="cls-1" x="1896" y="310" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-10" transform="translate(1944.8228 338.6)"><tspan x="0" y="0">Search (icon)</tspan></text>
+</svg>

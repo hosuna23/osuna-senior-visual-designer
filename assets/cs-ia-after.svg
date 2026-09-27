@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3440 1155.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1f5f9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-12 {
+        stroke: #94a3b8;
+      }
+
+      .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-15, .cls-16, .cls-19, .cls-22, .cls-24 {
+        fill: #1f2a37;
+      }
+
+      .cls-15, .cls-16, .cls-25 {
+        font-size: 13px;
+      }
+
+      .cls-15, .cls-23, .cls-24, .cls-25 {
+        font-family: Inter-Regular, Inter;
+        font-variation-settings: 'wght' 400, 'slnt' 0;
+      }
+
+      .cls-26 {
+        fill: #fff7b3;
+        stroke: #e6d46a;
+      }
+
+      .cls-2 {
+        fill: #e0f2f1;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke: #2a9d8f;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-20, .cls-21, .cls-9, .cls-11, .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-17, .cls-18 {
+        font-size: 20px;
+      }
+
+      .cls-17, .cls-6 {
+        fill: #1e3a5f;
+      }
+
+      .cls-18 {
+        fill: #047857;
+      }
+
+      .cls-19, .cls-20 {
+        font-size: 15px;
+      }
+
+      .cls-4 {
+        fill: #e3ecf7;
+      }
+
+      .cls-4, .cls-8, .cls-9 {
+        stroke: #3b6ea5;
+      }
+
+      .cls-5 {
+        fill: #2a9d8f;
+      }
+
+      .cls-21 {
+        font-size: 16px;
+      }
+
+      .cls-6 {
+        stroke: #1e3a5f;
+      }
+
+      .cls-7 {
+        fill: #d98e3b;
+      }
+
+      .cls-7, .cls-10, .cls-11 {
+        stroke: #d98e3b;
+      }
+
+      .cls-8 {
+        fill: #3b6ea5;
+      }
+
+      .cls-10 {
+        fill: #fff1e0;
+      }
+
+      .cls-22, .cls-23 {
+        font-size: 14px;
+      }
+
+      .cls-23 {
+        fill: #475569;
+      }
+
+      .cls-24 {
+        font-size: 12px;
+      }
+
+      .cls-27 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-25 {
+        fill: #334155;
+      }
+
+      .cls-12 {
+        fill: none;
+      }
+
+      .cls-13 {
+        fill: #fdecec;
+      }
+
+      .cls-13, .cls-14 {
+        stroke: #d9534f;
+      }
+    </style>
+  </defs>
+  <text class="cls-18" transform="translate(45.56 55.41)"><tspan x="0" y="0">AFTER —</tspan><tspan class="cls-30" x="92.22" y="0"> </tspan><tspan x="97.03" y="0">Audience-based navigation (current site)</tspan></text>
+  <text class="cls-23" transform="translate(45.56 81.41)"><tspan x="0" y="0">3 audience paths, each with a consistent, predictable structure</tspan></text>
+  <rect class="cls-6" x="1595.56" y="105.41" width="220" height="48" rx="8" ry="8"/>
+  <text class="cls-20" transform="translate(1649.6992 134.6105)"><tspan x="0" y="0">careerstaff.com</tspan></text>
+  <rect class="cls-5" x="535.56" y="243.41" width="220" height="48" rx="8" ry="8"/>
+  <text class="cls-21" transform="translate(607.77 273.01)"><tspan x="0" y="0">Clinicians</tspan></text>
+  <line class="cls-12" x1="135.56" y1="317.41" x2="1155.56" y2="317.41"/>
+  <line class="cls-12" x1="645.56" y1="291.41" x2="645.56" y2="317.41"/>
+  <line class="cls-12" x1="135.56" y1="317.41" x2="135.56" y2="339.41"/>
+  <rect class="cls-2" x="45.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(111.01 367.91)"><tspan x="0" y="0">Nursing</tspan></text>
+  <polyline class="cls-12" points="59.56 387.41 59.56 421.41 69.56 421.41"/>
+  <rect class="cls-3" x="69.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(104.52 425.61)"><tspan x="0" y="0">Job Specialties</tspan></text>
+  <polyline class="cls-12" points="59.56 441.41 59.56 483.41 69.56 483.41"/>
+  <rect class="cls-3" x="69.56" y="455.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(108.63 480.11)"><tspan x="0" y="0">Why Contract</tspan></text>
+  <text class="cls-24" transform="translate(125.6 495.11)"><tspan x="0" y="0">Nursing</tspan></text>
+  <polyline class="cls-12" points="59.56 511.41 59.56 545.41 69.56 545.41"/>
+  <rect class="cls-3" x="69.56" y="525.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(99.41 549.61)"><tspan x="0" y="0">Benefits &amp; Salary</tspan></text>
+  <polyline class="cls-12" points="59.56 565.41 59.56 599.41 69.56 599.41"/>
+  <rect class="cls-3" x="69.56" y="579.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(106.92 603.61)"><tspan x="0" y="0">Nurse Referral</tspan></text>
+  <line class="cls-12" x1="339.56" y1="317.41" x2="339.56" y2="339.41"/>
+  <rect class="cls-2" x="249.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(294.41 367.91)"><tspan class="cls-29" x="0" y="0">T</tspan><tspan x="7.22" y="0">ravel Nursing</tspan></text>
+  <polyline class="cls-12" points="263.56 387.41 263.56 421.41 273.56 421.41"/>
+  <rect class="cls-3" x="273.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(308.52 425.61)"><tspan x="0" y="0">Job Specialties</tspan></text>
+  <polyline class="cls-12" points="263.56 441.41 263.56 483.41 273.56 483.41"/>
+  <rect class="cls-3" x="273.56" y="455.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(320.27 480.11)"><tspan x="0" y="0">Why Travel</tspan></text>
+  <text class="cls-24" transform="translate(329.6 495.11)"><tspan x="0" y="0">Nursing</tspan></text>
+  <polyline class="cls-12" points="263.56 511.41 263.56 545.41 273.56 545.41"/>
+  <rect class="cls-3" x="273.56" y="525.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(303.41 549.61)"><tspan x="0" y="0">Benefits &amp; Salary</tspan></text>
+  <polyline class="cls-12" points="263.56 565.41 263.56 599.41 273.56 599.41"/>
+  <rect class="cls-3" x="273.56" y="579.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(302.36 603.61)"><tspan x="0" y="0">Compact License</tspan></text>
+  <polyline class="cls-12" points="263.56 619.41 263.56 653.41 273.56 653.41"/>
+  <rect class="cls-3" x="273.56" y="633.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(329.47 657.61)"><tspan x="0" y="0">Referral</tspan></text>
+  <line class="cls-12" x1="543.56" y1="317.41" x2="543.56" y2="339.41"/>
+  <rect class="cls-2" x="453.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(504.19 367.91)"><tspan x="0" y="0">Allied Health</tspan></text>
+  <polyline class="cls-12" points="467.56 387.41 467.56 421.41 477.56 421.41"/>
+  <rect class="cls-3" x="477.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(504.41 425.61)"><tspan x="0" y="0">Allied Health Jobs</tspan></text>
+  <polyline class="cls-12" points="467.56 441.41 467.56 483.41 477.56 483.41"/>
+  <rect class="cls-3" x="477.56" y="455.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(516.63 480.11)"><tspan x="0" y="0">Why Contract</tspan></text>
+  <text class="cls-24" transform="translate(540.02 495.11)"><tspan x="0" y="0">Allied</tspan></text>
+  <polyline class="cls-12" points="467.56 511.41 467.56 545.41 477.56 545.41"/>
+  <rect class="cls-3" x="477.56" y="525.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(507.41 549.61)"><tspan x="0" y="0">Benefits &amp; Salary</tspan></text>
+  <polyline class="cls-12" points="467.56 565.41 467.56 599.41 477.56 599.41"/>
+  <rect class="cls-3" x="477.56" y="579.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(533.47 603.61)"><tspan x="0" y="0">Referral</tspan></text>
+  <line class="cls-12" x1="747.56" y1="317.41" x2="747.56" y2="339.41"/>
+  <rect class="cls-2" x="657.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(725.89 359.91)"><tspan x="0" y="0">Interim</tspan></text>
+  <text class="cls-16" transform="translate(712.88 375.91)"><tspan x="0" y="0">Leadership</tspan></text>
+  <polyline class="cls-12" points="671.56 387.41 671.56 421.41 681.56 421.41"/>
+  <rect class="cls-3" x="681.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(716.52 425.61)"><tspan x="0" y="0">Job Specialties</tspan></text>
+  <polyline class="cls-12" points="671.56 441.41 671.56 483.41 681.56 483.41"/>
+  <rect class="cls-3" x="681.56" y="455.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(725.8 480.11)"><tspan x="0" y="0">Why Interim</tspan></text>
+  <text class="cls-24" transform="translate(728.1 495.11)"><tspan x="0" y="0">Leadership</tspan></text>
+  <polyline class="cls-12" points="671.56 511.41 671.56 545.41 681.56 545.41"/>
+  <rect class="cls-3" x="681.56" y="525.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(711.41 549.61)"><tspan x="0" y="0">Benefits &amp; Salary</tspan></text>
+  <polyline class="cls-12" points="671.56 565.41 671.56 599.41 681.56 599.41"/>
+  <rect class="cls-3" x="681.56" y="579.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(737.47 603.61)"><tspan x="0" y="0">Referral</tspan></text>
+  <line class="cls-12" x1="951.56" y1="317.41" x2="951.56" y2="339.41"/>
+  <rect class="cls-2" x="861.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(924.47 359.91)"><tspan x="0" y="0">Clinician</tspan></text>
+  <text class="cls-16" transform="translate(918.32 375.91)"><tspan x="0" y="0">Resources</tspan></text>
+  <polyline class="cls-12" points="875.56 387.41 875.56 421.41 885.56 421.41"/>
+  <rect class="cls-3" x="885.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(913.49 425.61)"><tspan x="0" y="0">Clinician Life Blog</tspan></text>
+  <polyline class="cls-12" points="875.56 441.41 875.56 475.41 885.56 475.41"/>
+  <rect class="cls-3" x="885.56" y="455.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(932.56 479.61)"><tspan x="0" y="0">Newsletter</tspan></text>
+  <polyline class="cls-12" points="875.56 495.41 875.56 529.41 885.56 529.41"/>
+  <rect class="cls-14" x="885.56" y="509.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(927.01 533.61)"><tspan x="0" y="0">ROP Training</tspan></text>
+  <polyline class="cls-12" points="875.56 549.41 875.56 583.41 885.56 583.41"/>
+  <rect class="cls-3" x="885.56" y="563.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(926.67 587.61)"><tspan x="0" y="0">Clinician FAQ</tspan></text>
+  <polyline class="cls-12" points="875.56 603.41 875.56 637.41 885.56 637.41"/>
+  <rect class="cls-14" x="885.56" y="617.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(904.3 641.61)"><tspan x="0" y="0">COVID-19 Resources</tspan></text>
+  <polyline class="cls-12" points="875.56 657.41 875.56 691.41 885.56 691.41"/>
+  <rect class="cls-3" x="885.56" y="671.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(937.26 695.61)"><tspan x="0" y="0">About Us</tspan></text>
+  <line class="cls-12" x1="1155.56" y1="317.41" x2="1155.56" y2="339.41"/>
+  <rect class="cls-2" x="1065.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1116.9039 367.9105)"><tspan x="0" y="0">Search Jobs</tspan></text>
+  <rect class="cls-8" x="1697.56" y="243.41" width="220" height="48" rx="8" ry="8"/>
+  <text class="cls-21" transform="translate(1766.6547 273.0104)"><tspan x="0" y="0">Employers</tspan></text>
+  <line class="cls-12" x1="1399.56" y1="317.41" x2="2215.56" y2="317.41"/>
+  <line class="cls-12" x1="1807.56" y1="291.41" x2="1807.56" y2="317.41"/>
+  <line class="cls-12" x1="1399.56" y1="317.41" x2="1399.56" y2="339.41"/>
+  <rect class="cls-4" x="1309.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1366.3211 359.9105)"><tspan x="0" y="0">Healthcare</tspan></text>
+  <text class="cls-16" transform="translate(1375.3699 375.9105)"><tspan x="0" y="0">Staffing</tspan></text>
+  <line class="cls-12" x1="1603.56" y1="317.41" x2="1603.56" y2="339.41"/>
+  <rect class="cls-4" x="1513.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1571.5339 359.9105)"><tspan class="cls-28" x="0" y="0">W</tspan><tspan x="12.04" y="0">orkforce</tspan></text>
+  <text class="cls-16" transform="translate(1573.9523 375.9105)"><tspan x="0" y="0">Solutions</tspan></text>
+  <polyline class="cls-12" points="1527.56 387.41 1527.56 421.41 1537.56 421.41"/>
+  <rect class="cls-9" x="1537.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1574.7546 425.6104)"><tspan x="0" y="0">MSP Solutions</tspan></text>
+  <polyline class="cls-12" points="1527.56 441.41 1527.56 483.41 1537.56 483.41"/>
+  <rect class="cls-9" x="1537.56" y="455.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1567.1183 480.1104)"><tspan x="0" y="0">MSP Sub-Vendor</tspan></text>
+  <text class="cls-24" transform="translate(1591.5527 495.1104)"><tspan x="0" y="0">Program</tspan></text>
+  <polyline class="cls-12" points="1527.56 511.41 1527.56 545.41 1537.56 545.41"/>
+  <rect class="cls-9" x="1537.56" y="525.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1570.3483 549.6105)"><tspan x="0" y="0">Crisis Response</tspan></text>
+  <line class="cls-12" x1="1807.56" y1="317.41" x2="1807.56" y2="339.41"/>
+  <rect class="cls-4" x="1717.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1778.676 367.9105)"><tspan x="0" y="0">About Us</tspan></text>
+  <line class="cls-12" x1="2011.56" y1="317.41" x2="2011.56" y2="339.41"/>
+  <rect class="cls-4" x="1921.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(1981.9396 359.9105)"><tspan x="0" y="0">Employer</tspan></text>
+  <text class="cls-16" transform="translate(1978.3215 375.9105)"><tspan x="0" y="0">Resources</tspan></text>
+  <polyline class="cls-12" points="1935.56 387.41 1935.56 421.41 1945.56 421.41"/>
+  <rect class="cls-9" x="1945.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1986.9987 425.6104)"><tspan x="0" y="0">Staffing Blog</tspan></text>
+  <polyline class="cls-12" points="1935.56 441.41 1935.56 475.41 1945.56 475.41"/>
+  <rect class="cls-9" x="1945.56" y="455.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1977.445 479.6104)"><tspan x="0" y="0">Staffing Insights</tspan></text>
+  <polyline class="cls-12" points="1935.56 495.41 1935.56 537.41 1945.56 537.41"/>
+  <rect class="cls-9" x="1945.56" y="509.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1982.968 534.1105)"><tspan x="0" y="0">Industry Vitals</tspan></text>
+  <text class="cls-24" transform="translate(1992.5642 549.1105)"><tspan x="0" y="0">Newsletter</tspan></text>
+  <polyline class="cls-12" points="1935.56 565.41 1935.56 599.41 1945.56 599.41"/>
+  <rect class="cls-9" x="1945.56" y="579.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(1984.1862 603.6105)"><tspan x="0" y="0">Employer FAQ</tspan></text>
+  <line class="cls-12" x1="2215.56" y1="317.41" x2="2215.56" y2="339.41"/>
+  <rect class="cls-4" x="2125.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(2163.9196 367.9105)"><tspan x="0" y="0">Request Staffing</tspan></text>
+  <rect class="cls-7" x="2757.56" y="243.41" width="220" height="48" rx="8" ry="8"/>
+  <text class="cls-21" transform="translate(2829.3329 273.0104)"><tspan x="0" y="0">Corporate</tspan></text>
+  <line class="cls-12" x1="2459.56" y1="317.41" x2="3275.56" y2="317.41"/>
+  <line class="cls-12" x1="2867.56" y1="291.41" x2="2867.56" y2="317.41"/>
+  <line class="cls-12" x1="2459.56" y1="317.41" x2="2459.56" y2="339.41"/>
+  <rect class="cls-10" x="2369.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(2440.4191 359.9105)"><tspan x="0" y="0">Life at</tspan></text>
+  <text class="cls-16" transform="translate(2424.5183 375.9105)"><tspan x="0" y="0">CareerStaff</tspan></text>
+  <line class="cls-12" x1="2663.56" y1="317.41" x2="2663.56" y2="339.41"/>
+  <rect class="cls-10" x="2573.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(2634.675 367.9105)"><tspan x="0" y="0">About Us</tspan></text>
+  <polyline class="cls-12" points="2587.56 387.41 2587.56 429.41 2597.56 429.41"/>
+  <rect class="cls-11" x="2597.56" y="401.41" width="156" height="56" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(2649.1398 426.1104)"><tspan x="0" y="0">Awards &amp;</tspan></text>
+  <text class="cls-24" transform="translate(2642.049 441.1104)"><tspan x="0" y="0">Recognition</tspan></text>
+  <line class="cls-12" x1="2867.56" y1="317.41" x2="2867.56" y2="339.41"/>
+  <rect class="cls-10" x="2777.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(2836.8622 367.9105)"><tspan x="0" y="0">Locations</tspan></text>
+  <line class="cls-12" x1="3071.56" y1="317.41" x2="3071.56" y2="339.41"/>
+  <rect class="cls-10" x="2981.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(3040.5004 359.9105)"><tspan x="0" y="0">Corporate</tspan></text>
+  <text class="cls-16" transform="translate(3038.3198 375.9105)"><tspan x="0" y="0">Resources</tspan></text>
+  <polyline class="cls-12" points="2995.56 387.41 2995.56 421.41 3005.56 421.41"/>
+  <rect class="cls-11" x="3005.56" y="401.41" width="156" height="40" rx="8" ry="8"/>
+  <text class="cls-24" transform="translate(3036.4887 425.6104)"><tspan x="0" y="0">CareerStaff Blog</tspan></text>
+  <line class="cls-12" x1="3275.56" y1="317.41" x2="3275.56" y2="339.41"/>
+  <rect class="cls-10" x="3185.56" y="339.41" width="180" height="48" rx="8" ry="8"/>
+  <text class="cls-16" transform="translate(3227.86 367.9105)"><tspan x="0" y="0">Search Careers</tspan></text>
+  <line class="cls-12" x1="645.56" y1="189.41" x2="2867.56" y2="189.41"/>
+  <line class="cls-12" x1="1705.56" y1="153.41" x2="1705.56" y2="189.41"/>
+  <line class="cls-12" x1="645.56" y1="189.41" x2="645.56" y2="243.41"/>
+  <line class="cls-12" x1="1807.56" y1="189.41" x2="1807.56" y2="243.41"/>
+  <line class="cls-12" x1="2867.56" y1="189.41" x2="2867.56" y2="243.41"/>
+  <text class="cls-17" transform="translate(45.56 815.41)"><tspan x="0" y="0">Key I</tspan><tspan class="cls-30" x="47.8" y="0">A</tspan><tspan x="61.5" y="0" xml:space="preserve"> changes</tspan></text>
+  <rect class="cls-26" x="45.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(63.56 871.41)"><tspan x="0" y="0">From 10 items to 3 paths</tspan></text>
+  <text class="cls-25" transform="translate(63.56 897.41)"><tspan x="0" y="0">Top navigation reorganized around who</tspan></text>
+  <text class="cls-25" transform="translate(63.56 916.41)"><tspan x="0" y="0">is visiting: Clinicians, Employers,</tspan></text>
+  <text class="cls-25" transform="translate(63.56 935.41)"><tspan x="0" y="0">and Corporate job seekers.</tspan></text>
+  <rect class="cls-26" x="369.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(387.56 871.41)"><tspan x="0" y="0">Consistent specialty pattern</tspan></text>
+  <text class="cls-25" transform="translate(387.56 897.41)"><tspan x="0" y="0">Every clinician specialty follows the</tspan></text>
+  <text class="cls-25" transform="translate(387.56 916.41)"><tspan x="0" y="0">same structure: Jobs → Why → Benefits</tspan></text>
+  <text class="cls-25" transform="translate(387.56 935.41)"><tspan x="0" y="0">&amp; Salary → Referral. Learn it once,</tspan></text>
+  <text class="cls-25" transform="translate(387.56 954.41)"><tspan x="0" y="0">use it everywhere.</tspan></text>
+  <rect class="cls-26" x="693.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(711.56 871.41)"><tspan x="0" y="0">Stronger employer path</tspan></text>
+  <text class="cls-25" transform="translate(711.56 897.41)"><tspan x="0" y="0">Employers went from 4 links to a full</tspan></text>
+  <text class="cls-25" transform="translate(711.56 916.41)"><tspan x="0" y="0">path: Staffing, Workforce Solutions,</tspan></text>
+  <text class="cls-25" transform="translate(711.56 935.41)"><tspan x="0" y="0">Resources, and a clear Request</tspan></text>
+  <text class="cls-25" transform="translate(711.56 954.41)"><tspan x="0" y="0">Staffing call to action.</tspan></text>
+  <rect class="cls-26" x="1017.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(1035.5615 871.4105)"><tspan x="0" y="0">Less top-level clutter</tspan></text>
+  <text class="cls-25" transform="translate(1035.5615 897.4105)"><tspan x="0" y="0">ROP Training and COVID-19 Resources</tspan></text>
+  <text class="cls-25" transform="translate(1035.5615 916.4106)"><tspan x="0" y="0">moved from the main menu into</tspan></text>
+  <text class="cls-25" transform="translate(1035.5615 935.4106)"><tspan x="0" y="0">Clinician Resources (shown in red).</tspan></text>
+  <rect class="cls-26" x="1341.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(1359.5606 871.4105)"><tspan x="0" y="0">Content split by audience</tspan></text>
+  <text class="cls-25" transform="translate(1359.5606 897.4105)"><tspan x="0" y="0">One shared blog became separate</tspan></text>
+  <text class="cls-25" transform="translate(1359.5606 916.4106)"><tspan x="0" y="0">clinician, employer, and corporate</tspan></text>
+  <text class="cls-25" transform="translate(1359.5606 935.4106)"><tspan x="0" y="0">blogs and newsletters.</tspan></text>
+  <rect class="cls-26" x="1665.56" y="839.41" width="300" height="170" rx="4" ry="4"/>
+  <text class="cls-19" transform="translate(1683.561 871.4105)"><tspan x="0" y="0">Utilities became C</tspan><tspan class="cls-27" x="129.21" y="0">T</tspan><tspan x="137.26" y="0">As</tspan></text>
+  <text class="cls-25" transform="translate(1683.561 897.4105)"><tspan x="0" y="0">Search Jobs and Quick Apply moved out</tspan></text>
+  <text class="cls-25" transform="translate(1683.561 916.4106)"><tspan x="0" y="0">of the menu into persistent buttons:</tspan></text>
+  <text class="cls-25" transform="translate(1683.561 935.4106)"><tspan x="0" y="0">Search Jobs, Apply Now, Refer Now.</tspan></text>
+  <text class="cls-22" transform="translate(45.561 1059.4106)"><tspan x="0" y="0">Legend</tspan></text>
+  <rect class="cls-2" x="125.56" y="1044.41" width="22" height="18" rx="4" ry="4"/>
+  <text class="cls-15" transform="translate(155.5611 1058.4106)"><tspan x="0" y="0">Clinicians</tspan></text>
+  <rect class="cls-4" x="315.56" y="1044.41" width="22" height="18" rx="4" ry="4"/>
+  <text class="cls-15" transform="translate(345.5615 1058.4106)"><tspan x="0" y="0">Employers</tspan></text>
+  <rect class="cls-10" x="505.56" y="1044.41" width="22" height="18" rx="4" ry="4"/>
+  <text class="cls-15" transform="translate(535.5615 1058.4106)"><tspan x="0" y="0">Corporate</tspan></text>
+  <rect class="cls-1" x="695.56" y="1044.41" width="22" height="18" rx="4" ry="4"/>
+  <text class="cls-15" transform="translate(725.5613 1058.4106)"><tspan x="0" y="0">Utility / shared</tspan></text>
+  <rect class="cls-13" x="885.56" y="1044.41" width="22" height="18" rx="4" ry="4"/>
+  <text class="cls-15" transform="translate(915.5615 1058.4106)"><tspan x="0" y="0">Moved in redesign</tspan></text>
+</svg>
