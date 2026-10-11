@@ -1,22 +1,22 @@
-OSUNA DESIGN — GitHub-ready website
+HECTOR OSUNA — PORTFOLIO (redesign)
 
-Includes the latest homepage, all eight supporting pages, all images,
-styles, JavaScript, and homepage-only hero animation.
+Open index.html to review. Everything is static HTML, CSS and JS with no build step
+and no external requests: fonts (Plus Jakarta Sans + Instrument Sans, SIL Open Font License)
+are self-hosted in /fonts.
 
-1. Extract this ZIP.
-2. Upload its contents to the root of your GitHub repository.
-   index.html should be at the root, rather than inside another folder.
-3. Keep the assets folder and all filenames intact.
-4. Keep your existing CNAME file if you use a custom domain.
-5. In repository Settings > Pages, select GitHub Actions as the source
-   to use the included .github/workflows/static.yml deployment workflow.
+Structure
+  index.html                 Home: hero, interactive work index, approach, testimonials
+  working-solutions.html     Case studies — each split into short chapters (tabs) so
+  integrated-campaign.html   visitors switch sections instead of scrolling.
+  print-and-packaging.html   Keyboard: [ and ] move between chapters; arrow keys in decks.
+  caliber.html
+  adi-resideo.html
+  careerstaff.html
+  ui-ux-fitnudge.html
+  music-streaming-app.html
+  about.html, resume.html
+  css/site.css               One stylesheet (design tokens at the top)
+  js/site.js                 All interactions (chapters, tabs, decks, lightbox, hotspots,
+                             compare slider, count-ups, copy-to-clipboard)
 
-No installation or build step is required. Figma prototypes and surveys
-remain external links. Research galleries, tabs, and lightboxes run locally.
-
-Files include:
-index.html, about.html, resume.html, adi-resideo.html,
-working-solutions.html, careerstaff.html, caliber.html,
-music-streaming-app.html, ui-ux-fitnudge.html,
-styles.css, editorial.css, ux-cases.css,
-script.js, hero-motion.js, ux-cases.js, and assets/.
+Deploying: push the folder to GitHub; the included Pages workflow publishes it.
