@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Component Lab — Hector Osuna</title>
+<meta name="description" content="Interactive portfolio prototype exploring design tokens, responsive UI, component states and documented behavior.">
+<meta name="theme-color" content="#0F2043">
+<link rel="icon" href="favicon.ico?v=4" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32-v4.png">
+<link rel="icon" type="image/png" sizes="192x192" href="favicon-192-v4.png">
+<link rel="icon" type="image/svg+xml" href="favicon-v4.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=4">
+
+<link rel="preload" href="fonts/plus-jakarta-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/instrument-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/site-v3.css">
+<link rel="stylesheet" href="css/component-lab.css">
+</head>
+<body class="case" id="top">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav">
+  <div class="wrap nav__in">
+    <a class="nav__brand" href="index.html" aria-label="Osuna Design, home"><img src="assets/osuna-mark.png" alt="" width="48" height="48"><span class="nav__word" aria-hidden="true"><b>OSUNA</b><small>DESIGN</small></span></a>
+    <button class="nav__toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span></button>
+    <nav class="nav__links" aria-label="Main">
+      <a href="index.html#work" aria-current="page">Work</a>
+      <a href="about.html">About</a>
+      <a href="resume.html">Experience</a>
+      <a class="btn btn--solid btn--sm" href="mailto:hosuna23@gmail.com">Let&rsquo;s talk <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
+    </nav>
+  </div>
+</header>
+<main id="main"><section class="case-hero"><div class="wrap"><div class="label">New portfolio exploration / HTML · CSS · JavaScript</div><h1>Component Lab</h1><p class="lead">An interactive exploration of how shared tokens affect component states and responsive behavior.</p><p>Created with AI assistance for this portfolio. This is a standalone front-end prototype, not a production React or Storybook library or client project.</p></div></section><section class="band band--tight"><div class="wrap lab-layout"><form class="lab-controls" onsubmit="return false"><h2>Explore the system</h2><label>Accent color<select id="accent"><option value="#5140b4">Violet</option><option value="#006c60">Teal</option><option value="#a32259">Berry</option></select></label><label>Corner radius<select id="radius"><option value="4px">4 px</option><option value="12px">12 px</option><option value="24px">24 px</option></select></label><label>Spacing density<select id="space"><option value="16px">Comfortable</option><option value="10px">Compact</option><option value="24px">Spacious</option></select></label><label>Viewport<select id="viewport"><option value="100%">Desktop</option><option value="640px">Tablet</option><option value="360px">Phone</option></select></label><label>Button state<select id="state"><option value="default">Default</option><option value="loading">Loading</option><option value="disabled">Disabled</option></select></label><button class="btn btn--solid btn--sm" id="reset" type="button">Reset exploration</button></form><div><div id="lab-preview"><article class="lab-ui"><span class="lab-label">COMPONENT PREVIEW</span><h2>A consistent next step.</h2><p>Shared values control spacing, shape and color while the component adapts to its available width.</p><label for="lab-email">Email address</label><input autocomplete="email" id="lab-email" placeholder="you@example.com" type="email"/><button class="lab-action" id="lab-action" type="button">Continue →</button><p aria-live="polite" id="lab-status" role="status"></p></article></div><h3>Live token values</h3><pre id="tokens" tabindex="0"></pre><button class="btn btn--solid btn--sm" id="copy" type="button">Copy CSS tokens</button><p id="copy-status" role="status"></p></div></div></section><section class="band band--tight"><div class="wrap"><div class="head"><div><div class="label">Usage notes</div><h2>Behavior worth documenting.</h2></div><p>The prototype uses semantic controls, keyboard focus indicators and native disabled states. It illustrates the information a team needs alongside a visual component.</p></div><div class="cols" style="--c:3"><div><h3>Tokens and scope</h3><p>Accent, radius and spacing are scoped to the preview. Changes affect the input, button and container consistently without changing the surrounding portfolio.</p></div><div><h3>States and interaction</h3><p>Loading exposes an aria-busy state and prevents duplicate activation. Disabled uses the native disabled attribute. The default action validates email and reports feedback through a live region.</p></div><div><h3>Responsive constraints</h3><p>The preview uses an explicit maximum width and fluid controls. Phone, tablet and desktop selections expose the same component at different available widths.</p></div></div><a class="tlink" href="adi-resideo.html">See the professional Figma component project ↗</a></div></section></main>
+<footer class="footer">
+  <div class="wrap footer__in">
+    <span>&copy; <span data-year></span> Hector Osuna &middot; Osuna Design</span>
+    <nav aria-label="Footer"><a href="index.html#work">Work</a><a href="about.html">About</a><a href="resume.html">Experience</a><a href="mailto:hosuna23@gmail.com">hosuna23@gmail.com</a></nav>
+  </div>
+</footer>
+<script src="js/site.js"></script>
+<script src="js/component-lab.js"></script>
+
+</body>
+</html>
