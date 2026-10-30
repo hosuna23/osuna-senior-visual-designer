@@ -1,0 +1,117 @@
+/* The Journey — full-screen isometric story. Apple-style chrome around an Apple Maps–inspired diorama. */
+.jn{position:relative;height:min(100vh,880px);height:min(100svh,880px);min-height:640px;overflow:hidden;color:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue","Inter",Arial,sans-serif;-webkit-font-smoothing:antialiased;background:radial-gradient(120% 90% at 40% 45%,#ffffff 0%,#f5f5f7 55%,#ebebf0 100%);border-top:1px solid #e8e8ed;border-bottom:1px solid #e8e8ed;scroll-margin-top:52px}
+.jn-head{position:absolute;z-index:5;top:22px;left:24px;max-width:420px;pointer-events:none}
+.jn-head .label{margin-bottom:4px}
+.jn-head h2{margin:0;font-size:clamp(26px,3vw,38px);line-height:1.05;letter-spacing:-.03em;font-weight:700}
+.jn.is-started .jn-head{opacity:0;transition:opacity .4s}
+.jn-skip{display:inline-flex;align-items:center;gap:6px;height:44px;padding:0 20px;border-radius:980px;background:rgba(255,255,255,.86);-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);box-shadow:0 4px 20px rgba(0,0,0,.08),inset 0 0 0 1px rgba(0,0,0,.06);color:#1d1d1f;text-decoration:none;font-size:15px;font-weight:500;transition:background .2s}
+.jn-skip:hover{background:#fff}
+.jn-stage{position:absolute;inset:0;touch-action:pan-y}
+.jn-svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.jn-svg text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue","Inter",Arial,sans-serif}
+
+/* top chrome */
+.jn-top{position:absolute;top:16px;left:16px;right:16px;display:flex;justify-content:flex-end;align-items:center;pointer-events:none;z-index:5}
+.jn-top>*{pointer-events:auto}
+.jn-brand{display:inline-flex;align-items:center;gap:10px;height:44px;padding:0 16px 0 6px;border-radius:980px;background:rgba(255,255,255,.8);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);box-shadow:0 4px 20px rgba(0,0,0,.08),inset 0 0 0 1px rgba(0,0,0,.05);color:#1d1d1f;text-decoration:none;font-weight:600;font-size:15px;letter-spacing:-.01em}
+.jn-brand img{width:32px;height:32px;border-radius:50%;object-fit:cover}
+.jn-top__right{display:flex;gap:8px;align-items:center}
+.jn-progress{display:inline-flex;align-items:center;gap:10px;height:44px;padding:0 16px;border-radius:980px;background:rgba(255,255,255,.8);-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);box-shadow:0 4px 20px rgba(0,0,0,.08),inset 0 0 0 1px rgba(0,0,0,.05);font-size:13px;font-weight:600;color:#6e6e73;font-variant-numeric:tabular-nums}
+.jn-progress i{width:72px;height:4px;border-radius:2px;background:#e5e5ea;overflow:hidden}
+.jn-progress b{display:block;height:100%;width:0;background:#0071e3;border-radius:inherit;transition:width .6s cubic-bezier(.16,1,.3,1)}
+.jn-resume{display:inline-flex;align-items:center;gap:6px;height:44px;padding:0 20px;border-radius:980px;background:#1d1d1f;color:#fff;text-decoration:none;font-size:15px;font-weight:500;box-shadow:0 4px 20px rgba(0,0,0,.15);transition:background .2s}
+.jn-resume:hover{background:#000}
+.jn:not(.is-started) .jn-progress{opacity:0}
+
+/* info card */
+.jn-card{position:absolute;z-index:6;right:clamp(16px,4vw,64px);top:50%;transform:translateY(-50%);width:min(400px,calc(100vw - 32px));padding:26px 26px 22px;border-radius:24px;background:rgba(255,255,255,.86);-webkit-backdrop-filter:saturate(180%) blur(24px);backdrop-filter:saturate(180%) blur(24px);box-shadow:0 30px 60px -20px rgba(0,0,0,.22),inset 0 0 0 1px rgba(0,0,0,.05);opacity:0;pointer-events:none}
+.jn.is-started .jn-card{pointer-events:auto}
+.jn-card.is-in{animation:jnCard .55s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes jnCard{from{opacity:0;transform:translateY(calc(-50% + 14px))}to{opacity:1;transform:translateY(-50%)}}
+.jn-card__eyebrow{display:flex;gap:6px;margin:0 0 10px;font-size:12px;font-weight:600;color:#6e6e73;letter-spacing:.01em}
+.jn-card__eyebrow span:first-child{color:var(--accent,#0071e3)}
+.jn-card__title{margin:0;font-size:clamp(26px,2.4vw,32px);line-height:1.08;letter-spacing:-.03em;font-weight:700}
+.jn-card__role{margin:6px 0 0;font-size:17px;font-weight:600;letter-spacing:-.015em}
+.jn-card__meta{display:flex;gap:28px;margin:16px 0 0;padding:12px 0 0;border-top:1px solid rgba(0,0,0,.08)}
+.jn-card__meta dt{font-size:11px;font-weight:600;color:#86868b;text-transform:uppercase;letter-spacing:.06em}
+.jn-card__meta dd{margin:2px 0 0;font-size:15px;font-weight:600}
+.jn-card__text{margin:14px 0 0;font-size:15.5px;line-height:1.5;color:#424245}
+.jn-card__chips{list-style:none;display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 0;padding:0}
+.jn-card__chips li{font-size:12.5px;font-weight:600;padding:5px 10px;border-radius:980px;background:#f2f2f7;color:#1d1d1f}
+.jn-card__link{display:inline-block;margin-top:14px;color:#0066cc;font-size:15px;text-decoration:none}
+.jn-card__link:hover{text-decoration:underline}
+.jn-card__nav{display:flex;justify-content:space-between;gap:10px;margin-top:18px}
+.jn-btn{display:inline-flex;align-items:center;justify-content:center;height:40px;padding:0 18px;border-radius:980px;border:0;background:#f2f2f7;color:#1d1d1f;font:inherit;font-size:15px;font-weight:500;cursor:pointer;text-decoration:none;transition:background .2s,transform .15s}
+.jn-btn:hover:not(:disabled){background:#e8e8ed}
+.jn-btn:active:not(:disabled){transform:scale(.97)}
+.jn-btn:disabled{opacity:.4;cursor:default}
+.jn-btn--solid{background:#0071e3;color:#fff}
+.jn-btn--solid:hover:not(:disabled){background:#0077ed}
+.jn-btn:focus-visible,.jn-chip:focus-visible{outline:2px solid #0071e3;outline-offset:2px}
+
+/* stop chips */
+.jn-chips{position:absolute;z-index:5;left:16px;right:16px;bottom:16px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding:4px 2px 8px;opacity:0;transform:translateY(8px);transition:opacity .4s,transform .4s;scroll-behavior:smooth}
+.jn-chips::-webkit-scrollbar{display:none}
+.jn.is-started .jn-chips{opacity:1;transform:none}
+.jn-chip{flex:none;display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 14px 0 6px;border-radius:980px;border:0;background:rgba(255,255,255,.86);-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);box-shadow:0 4px 16px rgba(0,0,0,.08),inset 0 0 0 1px rgba(0,0,0,.05);color:#1d1d1f;font:inherit;font-size:14px;font-weight:600;cursor:pointer;transition:background .2s,color .2s,transform .2s}
+.jn-chip:hover{transform:translateY(-1px)}
+.jn-chip__n{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#f2f2f7;color:#1d1d1f;font-size:13px;font-weight:700;transition:background .2s,color .2s}
+.jn-chip.is-done .jn-chip__n{background:var(--c);color:#fff;opacity:.55}
+.jn-chip.is-on{background:#1d1d1f;color:#fff}
+.jn-chip.is-on .jn-chip__n{background:var(--c);color:#fff;opacity:1}
+
+/* intro */
+.jn-intro{position:absolute;z-index:8;inset:0;display:grid;place-items:center;padding:20px;background:linear-gradient(180deg,rgba(245,245,247,.2),rgba(245,245,247,.55))}
+.jn-intro[hidden]{display:none}
+.jn-intro__card{width:min(460px,100%);text-align:center;padding:34px 30px 28px;border-radius:28px;background:rgba(255,255,255,.88);-webkit-backdrop-filter:saturate(180%) blur(24px);backdrop-filter:saturate(180%) blur(24px);box-shadow:0 40px 80px -30px rgba(0,0,0,.3),inset 0 0 0 1px rgba(0,0,0,.05);animation:jnRise .8s cubic-bezier(.16,1,.3,1) both}
+@keyframes jnRise{from{opacity:0;transform:translateY(18px) scale(.98)}to{opacity:1;transform:none}}
+.jn-intro__avatar{width:88px;height:88px;border-radius:50%;object-fit:cover;box-shadow:0 10px 24px rgba(0,0,0,.15)}
+.jn-intro h2{margin:16px 0 6px;font-size:clamp(30px,4vw,40px);line-height:1.05;letter-spacing:-.035em}
+.jn-intro p{margin:0 auto;max-width:34ch;font-size:17px;line-height:1.45;color:#6e6e73}
+.jn-intro__actions{display:flex;justify-content:center;gap:10px;margin-top:22px;flex-wrap:wrap}
+.jn-intro .jn-btn{height:44px;padding:0 22px;font-size:16px}
+.jn-intro small{display:block;margin-top:14px;font-size:12.5px;color:#86868b}
+.jn-intro kbd{display:inline-grid;place-items:center;min-width:22px;height:20px;padding:0 5px;border-radius:5px;background:#f2f2f7;border:1px solid #e5e5ea;font:600 11px/1 inherit}
+
+/* scene pieces */
+.jn-pin{cursor:pointer}
+.jn-pin__in{transform-box:fill-box;transition:transform .45s cubic-bezier(.34,1.56,.64,1),opacity .3s;opacity:.85}
+.jn-pin.is-on .jn-pin__in{transform:scale(1.3) translateY(-6px);opacity:1}
+.jn-pin.is-done .jn-pin__in{opacity:.95}
+.jn-pin__pulse{opacity:0;transform-box:fill-box;transform-origin:center}
+.jn-pin.is-on .jn-pin__pulse{animation:jnPulse 1.8s ease-out infinite}
+@keyframes jnPulse{from{opacity:.45;transform:scale(1)}to{opacity:0;transform:scale(2.2)}}
+.jn-pin__label{opacity:0;transition:opacity .3s}
+.jn-pin.is-on .jn-pin__label,.jn-pin:hover .jn-pin__label{opacity:1}
+.jn-route{transition:none}
+
+/* character (walk cycle is driven in journey.js) */
+.jn-eyes{transform-box:fill-box;transform-origin:center;animation:jnBlink 4.5s infinite}
+@keyframes jnBlink{0%,46%,50%,100%{transform:scaleY(1)}48%{transform:scaleY(.1)}}
+
+/* mobile: card becomes a bottom sheet */
+@media (max-width:760px){
+  .jn-top{top:10px;left:10px;right:10px}
+  .jn-brand span{display:none}
+  .jn-brand{padding:0 6px}
+  .jn-progress i{width:44px}
+  .jn-resume{padding:0 16px}
+  .jn-card{top:auto;bottom:64px;left:10px;right:10px;width:auto;max-height:52vh;overflow:auto;padding:18px 18px 16px;border-radius:20px;transform:none}
+  @keyframes jnCard{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .jn-card__title{font-size:23px}
+  .jn-card__role{font-size:15px}
+  .jn-card__text{font-size:14.5px}
+  .jn-card__meta{margin-top:12px;padding-top:10px}
+  .jn-chips{left:10px;right:10px;bottom:10px}
+  .jn{height:min(100svh,820px);min-height:600px}
+  .jn-head{top:66px;left:16px}
+  .jn-skip{padding:0 14px;font-size:14px;height:40px}
+  .jn-progress{height:40px}
+  .jn-chip{height:36px;font-size:13px}
+  .jn-chip__n{width:24px;height:24px;font-size:12px}
+}
+@media (max-height:640px) and (min-width:761px){.jn-card{padding:18px 20px}.jn-card__text{font-size:14px}}
+@media (prefers-reduced-motion:reduce){
+  .jn-eyes,.jn-pin.is-on .jn-pin__pulse{animation:none!important}
+  .jn-card.is-in{animation:none;opacity:1}
+}
